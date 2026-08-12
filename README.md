@@ -12,7 +12,6 @@ I'm an iOS developer with over 8 years of experience building clean, maintainabl
 - 🔭 Currently building: personal SwiftUI projects to explore new APIs and enhance UI/UX.
 - 🌱 Learning: Swift Concurrency (async/await), Combine, and UIKit-SwiftUI integration.
 - 👯 Open to: collaborating on open-source or meaningful side projects.
-- 📫 Reach me at: [cto@dv1pr.com](mailto:cto@dv1pr.com)
 
 ---
 
